@@ -1,0 +1,7 @@
+D:\TeamFoundationServer\ZFP\ZFP\DataAccess\bin\Release\DataAccess.dll
+D:\TeamFoundationServer\ZFP\ZFP\DataAccess\bin\Release\DataAccess.pdb
+D:\TeamFoundationServer\ZFP\ZFP\DataAccess\bin\Release\AutoMapper.dll
+D:\TeamFoundationServer\ZFP\ZFP\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\TeamFoundationServer\ZFP\ZFP\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\TeamFoundationServer\ZFP\ZFP\DataAccess\obj\Release\DataAccess.dll
+D:\TeamFoundationServer\ZFP\ZFP\DataAccess\obj\Release\DataAccess.pdb

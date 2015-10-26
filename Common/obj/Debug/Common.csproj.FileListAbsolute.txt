@@ -1,0 +1,17 @@
+D:\TestProject\ExportSurveryData\Common\bin\Debug\Common.dll
+D:\TestProject\ExportSurveryData\Common\bin\Debug\Common.pdb
+D:\TestProject\ExportSurveryData\Common\bin\Debug\Common.Logging.dll
+D:\TestProject\ExportSurveryData\Common\bin\Debug\Common.Logging.Log4Net.dll
+D:\TestProject\ExportSurveryData\Common\bin\Debug\log4net.dll
+D:\TestProject\ExportSurveryData\Common\bin\Debug\Newtonsoft.Json.dll
+D:\TestProject\ExportSurveryData\Common\obj\Debug\Common.dll
+D:\TestProject\ExportSurveryData\Common\obj\Debug\Common.pdb
+D:\TestProject\RedasTools\Common\bin\Debug\Common.dll
+D:\TestProject\RedasTools\Common\bin\Debug\Common.pdb
+D:\TestProject\RedasTools\Common\bin\Debug\Common.Logging.dll
+D:\TestProject\RedasTools\Common\bin\Debug\Common.Logging.Log4Net.dll
+D:\TestProject\RedasTools\Common\bin\Debug\log4net.dll
+D:\TestProject\RedasTools\Common\bin\Debug\Newtonsoft.Json.dll
+D:\TestProject\RedasTools\Common\obj\Debug\Common.dll
+D:\TestProject\RedasTools\Common\obj\Debug\Common.pdb
+D:\TestProject\RedasTools\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

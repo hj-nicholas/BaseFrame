@@ -1,0 +1,9 @@
+D:\TestProject\ExportSurveryData\Model\bin\Debug\Model.dll
+D:\TestProject\ExportSurveryData\Model\bin\Debug\Model.pdb
+D:\TestProject\ExportSurveryData\Model\obj\Debug\Model.dll
+D:\TestProject\ExportSurveryData\Model\obj\Debug\Model.pdb
+D:\TestProject\RedasTools\Model\bin\Debug\Model.dll
+D:\TestProject\RedasTools\Model\bin\Debug\Model.pdb
+D:\TestProject\RedasTools\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\TestProject\RedasTools\Model\obj\Debug\Model.dll
+D:\TestProject\RedasTools\Model\obj\Debug\Model.pdb
